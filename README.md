@@ -1,8 +1,6 @@
-- 👋 Hi, I’m mbappe
-- 👀 I’m interested in web-site designer
-- welcome to chanel rubika @mr_web_00
-
-<!---
-MBAPPE2025/MBAPPE2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Soroush  
+- 👀 I’m interested in Web Development, C#, and Python  
+- 🌱 I’m currently learning C# and exploring Robotics  
+- 💞️ I’m looking to collaborate on interesting web or AI projects  
+- 📫 Reach me on Telegram: [@MBAPPE2019](https://t.me/MBAPPE2019)  
+- 🐦 Twitter (X): [@soroush001010](https://x.com/soroush001010)
